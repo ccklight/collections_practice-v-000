@@ -42,6 +42,7 @@ def sum_array(array)
     sum += number 
   end 
   sum 
+end
 
 
 
