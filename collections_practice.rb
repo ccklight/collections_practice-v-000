@@ -25,16 +25,7 @@ def reverse_array(array)
   array.reverse 
 end
 
-# def kesha_maker(array)
-#   array.each do |token
-#     end
-# end
 
-def find_a(array)
-  array.find_all do | word| 
-    #????
-  end
-end
 
 def sum_array(array)
   sum = 0 
