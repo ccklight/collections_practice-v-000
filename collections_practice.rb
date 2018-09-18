@@ -27,9 +27,9 @@ end
 
 def kesha_maker(array)
   .each do | |
+  end
+array
 end
-
-
 
 
 # def kesha_maker(array)
