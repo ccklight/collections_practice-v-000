@@ -43,12 +43,7 @@ def find_a(array)
  end
 
 
-
- # using select method
-   # array.select do |word|
-   #   word[0] == "a"
-   # end
-end
+ 
 
 
 
