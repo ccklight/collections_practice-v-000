@@ -53,7 +53,6 @@ array.collect do |word|
   else 
       word + "s"
     end  
-      
 end
 
 
