@@ -45,17 +45,6 @@ def sum_array(array)
   sum 
 
 
-
-
-
-# def sum_array(array)
-# sum = 0
-# array.each do |num|
-#   sum+=num
-# end
-# sum
-
-
 # def add_s(array)
 # array.collect do |word|
 #   if array[1] == word
