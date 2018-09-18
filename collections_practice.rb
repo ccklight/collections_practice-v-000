@@ -46,7 +46,9 @@ def sum_array(array)
 
 
 
-
+def add_s
+array.split   
+end
 
 
 
