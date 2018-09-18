@@ -34,7 +34,6 @@ def find_a(array)
   array.find_all do | word| 
     #????
   end
-  
 end
 
 def sum_array(array)
