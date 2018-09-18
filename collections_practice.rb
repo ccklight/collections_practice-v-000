@@ -26,9 +26,8 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  .each do | |
-  end
-array
+  array.each do | "$"|.include
+    end
 end
 
 
