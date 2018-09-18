@@ -47,7 +47,13 @@ def sum_array(array)
 
 
 def add_s
-array.split   
+array.collect do |word| 
+  if array{1} == word 
+     word 
+  else 
+      word + 
+      
+      
 end
 
 
